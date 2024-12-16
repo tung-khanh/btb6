@@ -1,0 +1,15 @@
+D:\BTB6\BTB6\bin\Debug\BTB6.exe.config
+D:\BTB6\BTB6\bin\Debug\BTB6.exe
+D:\BTB6\BTB6\bin\Debug\BTB6.pdb
+D:\BTB6\BTB6\bin\Debug\EntityFramework.dll
+D:\BTB6\BTB6\bin\Debug\EntityFramework.SqlServer.dll
+D:\BTB6\BTB6\bin\Debug\EntityFramework.xml
+D:\BTB6\BTB6\bin\Debug\EntityFramework.SqlServer.xml
+D:\BTB6\BTB6\obj\Debug\BTB6.csproj.AssemblyReference.cache
+D:\BTB6\BTB6\obj\Debug\BTB6.Form1.resources
+D:\BTB6\BTB6\obj\Debug\BTB6.Properties.Resources.resources
+D:\BTB6\BTB6\obj\Debug\BTB6.csproj.GenerateResource.cache
+D:\BTB6\BTB6\obj\Debug\BTB6.csproj.CoreCompileInputs.cache
+D:\BTB6\BTB6\obj\Debug\BTB6.csproj.Up2Date
+D:\BTB6\BTB6\obj\Debug\BTB6.exe
+D:\BTB6\BTB6\obj\Debug\BTB6.pdb
